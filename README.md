@@ -6,7 +6,7 @@ Frontend developer
 
 I have been learning Frontend programming for 1 year, now I am trying to develop myself further in this field, I even learn more about Backend to become a full stack programmer, that is my goal.
 
-* 🌍  I'm based in Việt Nam
+* 🌍  I'm live in Việt Nam
 * ✉️  You can contact me at [anh.quach.dev@gmail.com](mailto:anh.quach.dev@gmail.com)
 * 🧠  I am currently learning Angular for my upcoming project.
 * 🤝  I'm open to collaborating on I am open to working on front-end projects.
